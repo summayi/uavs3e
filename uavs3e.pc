@@ -1,0 +1,11 @@
+prefix=E:/pull/uavs3e/out/install/x64-Debug (默认值)
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: uavs3e
+Description: AVS3 decoder library 
+Version: 
+Libs: -L${libdir} -luavs3e -lm
+Libs.private: 
+Cflags: -I${includedir}

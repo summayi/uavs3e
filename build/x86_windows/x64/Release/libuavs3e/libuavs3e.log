@@ -1,0 +1,21 @@
+﻿  me.c
+  quant.c
+  sao.c
+  tables.c
+  uavs3e.c
+  bitstream.c
+  entropy.c
+  alf.c
+  lookahead.c
+  analyze.c
+  inter.c
+  intra.c
+  ratectrl.c
+  transform.c
+  util.c
+    正在创建库 ..\..\bin\libuavs3e.lib 和对象 ..\..\bin\libuavs3e.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1000 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  libuavs3e.vcxproj -> E:\pull\uavs3e\build\x86_windows\..\..\bin\libuavs3e.dll
